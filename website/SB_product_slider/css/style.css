@@ -66,10 +66,15 @@ a {
 }
 
 .price {
-	color: #333333;
+	/* color: #333333; */
+	color: #0070C0;
 	font-weight: bold;
 	font-size: 1.1rem;
 	letter-spacing: 0.5px;
+}
+
+.price:hover {
+	color: #0070C0;
 }
 
 .overlay {
