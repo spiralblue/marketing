@@ -55,8 +55,8 @@ a {
 
 .type a {
 	color: #222222;
-	font-size: 2rem;
-	font-weight: 600;
+	font-size: 1.5rem;
+	font-weight: bold;
 	margin: 5px 0px;
 	letter-spacing: 0.5px;
 	padding-right: 8px;
@@ -69,7 +69,7 @@ a {
 
 .price {
 	color: #333333;
-	/* font-size: 1.1rem; */
+	font-size: 1.1rem;
 	font-weight: 600;
 	letter-spacing: 0.5px;
 }
