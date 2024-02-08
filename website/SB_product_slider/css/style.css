@@ -55,7 +55,7 @@ a {
 
 .type a {
 	color: #222222;
-	font-size: 1.2rem;
+	font-size: 2rem;
 	font-weight: 600;
 	margin: 5px 0px;
 	letter-spacing: 0.5px;
@@ -63,7 +63,7 @@ a {
 }
 
 .type span {
-	font-weight: bold;
+	/* font-weight: bold; */
 	color: rgba(26, 26, 26, 0.5);
 }
 
