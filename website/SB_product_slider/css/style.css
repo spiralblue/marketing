@@ -63,6 +63,7 @@ a {
 }
 
 .type span {
+	font-weight: normal;
 	color: rgba(26, 26, 26, 0.5);
 }
 
