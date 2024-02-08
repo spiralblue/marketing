@@ -74,6 +74,7 @@ a {
 
 .price:hover {
 	color: #0070C0;
+	transition: all ease 0.3s;
 }
 
 .overlay {
