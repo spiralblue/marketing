@@ -10,7 +10,6 @@ body {
 
 a {
 	text-decoration: none;
-	font-size: 1.2rem;
 }
 
 .box {
@@ -56,6 +55,8 @@ a {
 
 .type a {
 	color: #222222;
+	font-size: 1.2rem;
+	font-weight: bold;
 	margin: 5px 0px;
 	letter-spacing: 0.5px;
 	padding-right: 8px;
