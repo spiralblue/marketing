@@ -1,0 +1,10 @@
+Space Edge Computer, 0, 1, 2
+Satellite, SatRevolution, Satellogic, Coming Soon
+Payload Size, 0.25U, 0.25U, 0.25U
+Chip Architecture, NVIDIA Jetson Nano, NVIDIA Jetson Xavier NX, NVIDIA Orin NX
+Weight, 250 g, 250 g, TBA
+Processing Power, 0.5 TFLOPS, 21 TOPS, 100 TOPS
+Avg Power Draw, 6 W, 7 W, 10 - 25 W
+TID, , From Q1 2024, From Q1 2024
+SEE, , See Paper, From Q1 2024
+Operation, , Since April 2023, 
